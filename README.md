@@ -5,6 +5,7 @@
 1. Create a variable to store the data
 2. Use ``` input() ```
 3. Write your question inside speech marks in the input brackets to prompt user to enter their information
+   ``` input("your prompt") ```
 4. If you want an integer, or a float instead of the default type, string do this:
   ```
   int(input("your prompt")) # for integer
